@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwordLoadingView">
+        <attr name="swordColor" format="color" />
+        <attr name="swordCount" format="integer" />
+        <attr name="duration" format="integer" />
+    </declare-styleable>
+</resources>
